@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2981301493">
+    <data-source source="LOCAL" name="Sqlite (Xerial) - PubTriviaDB.db" uuid="c2c6561d-29aa-45c3-a1d0-08bbd1818d29">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/PubTriviaDB.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
